@@ -168,3 +168,51 @@ Received Import Request.
   path: Assets/Prefabs/Environment/Forest/Birds.Test.prefab
   artifactKey: Guid(f3b489bc43a244832afe67dd6aa0c6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Prefabs/Environment/Forest/Birds.Test.prefab using Guid(f3b489bc43a244832afe67dd6aa0c6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '314b8baa7677d0e6de063285ca77c6bf') in 0.005989 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2009.924578 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(8f7e1d5a7b7984e6eac8c904d161e295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(8f7e1d5a7b7984e6eac8c904d161e295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99466e72fb21e94b759a2c40c6b6e04d') in 0.001496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.808667 seconds.
+  path: Assets/Prefabs/Planes
+  artifactKey: Guid(f4e151503bf744cde8755fa88373d853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planes using Guid(f4e151503bf744cde8755fa88373d853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba227f1a4d9fb7679d52a3c72e694d15') in 0.001292 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.870351 seconds.
+  path: Assets/Prefabs/Planes/Plane.prefab
+  artifactKey: Guid(caec53b471a3f45a2aea4e53805f2eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planes/Plane.prefab using Guid(caec53b471a3f45a2aea4e53805f2eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8cc5fc9cde6aa1fc37dbb233c99fe03') in 0.050305 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 92.104550 seconds.
+  path: Assets/Prefabs/Planes/New Material.mat
+  artifactKey: Guid(03d4634f83b4a4b01aac8532d42bb186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planes/New Material.mat using Guid(03d4634f83b4a4b01aac8532d42bb186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2cb6caf7d8083c9f7612dee15c495a') in 0.106243 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.294411 seconds.
+  path: Assets/Prefabs/Planes/Forest_Material.mat
+  artifactKey: Guid(03d4634f83b4a4b01aac8532d42bb186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planes/Forest_Material.mat using Guid(03d4634f83b4a4b01aac8532d42bb186) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b95a7b097477e9aea6031f1f650e556') in 0.010536 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.795614 seconds.
+  path: Assets/Prefabs/Planes/Plane.prefab
+  artifactKey: Guid(caec53b471a3f45a2aea4e53805f2eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Planes/Plane.prefab using Guid(caec53b471a3f45a2aea4e53805f2eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a469d498e3bea3b1eddb17e6063b20') in 0.010065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 57.694734 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a35c3cddc746e7501c0bd0ed6d4ce') in 0.087512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.168495 seconds.
+  path: Assets/Prefabs/Environment/Forest/Birds.Test.prefab
+  artifactKey: Guid(f3b489bc43a244832afe67dd6aa0c6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Environment/Forest/Birds.Test.prefab using Guid(f3b489bc43a244832afe67dd6aa0c6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8d233889f72c1e75d4a962fab4c0e94') in 0.004597 seconds 
