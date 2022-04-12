@@ -1,0 +1,22 @@
+{
+    "name": "VolumetricAudio",
+    "references": [
+        "CW.Common",
+        "FMODUnity"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.FMODUnity",
+            "expression": "",
+            "define": "__FMOD__"
+        }
+    ],
+    "noEngineReferences": false
+}

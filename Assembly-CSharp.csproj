@@ -669,6 +669,14 @@
       <Project>{d4ab6a0e-4cd1-20f5-2a8c-30c1816eb8cd}</Project>
       <Name>FMODUnityResonanceEditor</Name>
     </ProjectReference>
+    <ProjectReference Include="CW.Common.csproj">
+      <Project>{06b08889-2bd3-8a9a-8321-0481b087209c}</Project>
+      <Name>CW.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="VolumetricAudio.csproj">
+      <Project>{4dd137f1-c82a-cbec-4ffb-4c74b8ca92cf}</Project>
+      <Name>VolumetricAudio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
