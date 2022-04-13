@@ -653,6 +653,10 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="CW.Common.csproj">
+      <Project>{06b08889-2bd3-8a9a-8321-0481b087209c}</Project>
+      <Name>CW.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="FMODUnity.csproj">
       <Project>{4c27684c-0246-1a5d-3f89-2b82062a0857}</Project>
       <Name>FMODUnity</Name>
@@ -668,10 +672,6 @@
     <ProjectReference Include="FMODUnityResonanceEditor.csproj">
       <Project>{d4ab6a0e-4cd1-20f5-2a8c-30c1816eb8cd}</Project>
       <Name>FMODUnityResonanceEditor</Name>
-    </ProjectReference>
-    <ProjectReference Include="CW.Common.csproj">
-      <Project>{06b08889-2bd3-8a9a-8321-0481b087209c}</Project>
-      <Name>CW.Common</Name>
     </ProjectReference>
     <ProjectReference Include="VolumetricAudio.csproj">
       <Project>{4dd137f1-c82a-cbec-4ffb-4c74b8ca92cf}</Project>

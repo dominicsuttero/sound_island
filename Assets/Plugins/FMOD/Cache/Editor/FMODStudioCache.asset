@@ -15,11 +15,38 @@ MonoBehaviour:
   Path: FMOD/Sound_Island/Build/Desktop/Master.strings.bank
   Name: Master.strings
   StudioPath: bank:/Master.strings
-  lastModified: 637852842490000000
+  lastModified: 637854470990000000
   FileSizes:
   - Name: Desktop
-    Value: 756
+    Value: 806
   Exists: 1
+--- !u!114 &-7155871436931661859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/4.river
+  m_EditorClassIdentifier: 
+  Path: event:/4.river
+  Guid:
+    Data1: 494516763
+    Data2: 1235786434
+    Data3: 1065517956
+    Data4: -500672899
+  Banks:
+  - {fileID: 1457372983622630996}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 125875
 --- !u!114 &-5271647050280499065
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104,12 +131,13 @@ MonoBehaviour:
   - {fileID: 1457372983622630996}
   EditorEvents:
   - {fileID: -5271647050280499065}
+  - {fileID: -7155871436931661859}
   EditorParameters: []
   MasterBanks:
   - {fileID: 1457372983622630996}
   StringsBanks:
   - {fileID: -8170608052575185019}
-  cacheTime: 637852842490000000
+  cacheTime: 637854470990000000
   cacheVersion: 10
 --- !u!114 &1457372983622630996
 MonoBehaviour:
@@ -126,10 +154,10 @@ MonoBehaviour:
   Path: FMOD/Sound_Island/Build/Desktop/Master.bank
   Name: Master
   StudioPath: bank:/Master
-  lastModified: 637852842490000000
+  lastModified: 637854470990000000
   FileSizes:
   - Name: Desktop
-    Value: 1114432
+    Value: 2866976
   Exists: 1
 --- !u!114 &5696244459026635501
 MonoBehaviour:
